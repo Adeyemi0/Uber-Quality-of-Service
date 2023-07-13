@@ -22,10 +22,11 @@ Emotion detection is performed on the cleaned text using the text2emotion librar
 ![Emotion Expressed!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/Emotions%20Expressed.png)
 
 #### 5. Complaint Classification
-To find common food delivery complaints such as late delivery, wrong delivery, and unfair charges I searched for keywords like 'cost', 'charged','fee','price','refund','afford','deduct','deducted','pay', 'wait', 'waiting', 'waited','long','delay','delayed','cancel', 'cancelled','void','voided',
-'wrong', 'incorrect','address','mix-up','mix up','care', 'assistance','complaint','hotline','support','service','driver', 'professionalism','guy'. These keywords are searched in the substring of individual tweets. 
+To find common food delivery complaints such as late delivery, wrong delivery, driver, cancelled order, unfair charges, and others I searched for keywords like 'cost', 'charged','fee','price','refund','afford','deduct','deducted','pay', 'wait', 'waiting', 'waited','long','delay','delayed','cancel', 'cancelled','void','voided',
+'wrong', 'incorrect','address','mix-up','mix up','care', 'assistance','complaint','hotline','support','service','driver', 'professionalism','guy'. These keywords are searched in the substring of individual tweets. Complaint Classification involves categorizing tweets into specific problem categories (late delivery, wrong delivery, driver, cancelled order, unfair charges, and others) based on these predefined keywords. 
+
 ![Complaint Classification!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/word_count_bar_chart.png)
 
 #### 6. Hashtag
 Interestingly, some of the hashtags used are used in reference to Uber eats competitors. Others are related to food, cupcakes, and pumpkin spice. It is safe to assume most Uber eats customers sell or buy these foods. 
-![Hashtag!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/word_count_bar_chart.png)
+![Hashtag!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/hashtags.png)
