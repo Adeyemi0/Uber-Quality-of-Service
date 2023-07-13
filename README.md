@@ -4,7 +4,6 @@ In today's highly competitive food delivery industry, it is crucial for companie
 ## Objective:
 The main objective of this project is to evaluate UberEats' service quality by analyzing customer tweets. By examining a large volume of unfiltered and unbiased customer opinions, we aim to uncover the strengths and weaknesses of UberEats' service, identify areas for improvement, and gain a comprehensive understanding of customer sentiment towards the company.
 ## Methodology
-### 1. Data Collection
+#### 1. Data Collection
 In order to perform this analysis, the SNSCRAPE python library was used to get 8433 tweets. All results gathered from this analysis are from this dataset. The dataset was collected by searching for the keyword #ubereats. 
 ![Scaping Tweets!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/scrape.png)
-In order to perform this analysis, the SNSCRAPE python library was used to get 8433 tweets. All results gathered from this analysis are from this dataset. The dataset was collected by searching for the keyword #ubereats. 
