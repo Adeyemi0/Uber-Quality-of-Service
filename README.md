@@ -27,7 +27,7 @@ To find common food delivery complaints such as late delivery, wrong delivery, d
 
 ![Complaint Classification!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/word_count_bar_chart.png)
 
-![Complaint Classification!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/Frequency of Problems.png)
+![Frequency of problem!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/Frequency of Problems.png)
 
 #### 6. Hashtag
 Interestingly, some of the hashtags used are used in reference to Uber eats competitors. Others are related to food, cupcakes, and pumpkin spice. It is safe to assume most Uber eats customers sell or buy these foods. 
