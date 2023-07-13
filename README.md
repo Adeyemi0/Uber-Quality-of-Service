@@ -24,3 +24,4 @@ Emotion detection is performed on the cleaned text using the text2emotion librar
 #### 5. Complaint Classification
 To find common food delivery complaints such as late delivery, wrong delivery, and unfair charges I searched for keywords like 'cost', 'charged','fee','price','refund','afford','deduct','deducted','pay', 'wait', 'waiting', 'waited','long','delay','delayed','cancel', 'cancelled','void','voided',
 'wrong', 'incorrect','address','mix-up','mix up','care', 'assistance','complaint','hotline','support','service','driver', 'professionalism','guy'. These keywords are searched in the substring of individual tweets. 
+![Complaint Classification!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/Emotions%20Expressed.png)
