@@ -16,3 +16,8 @@ The collected tweets undergo various preprocessing steps, such as removing speci
 #### 3. Sentiment Analysis
 I perform sentiment analysis on the preprocessed tweets using Natural Language Processing (NLP) techniques. This analysis helps me determine the overall sentiment of customers' tweets, whether positive, negative, or neutral.
 ![Sentiment Analysis!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/polarity_distribution.png)
+
+#### 4. Emotion detection 
+Emotion detection is performed on the cleaned text using the text2emotion library.
+![Emotion Expressed!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/polarity_distribution.png)
+
