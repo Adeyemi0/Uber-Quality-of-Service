@@ -39,15 +39,15 @@ Interestingly, some of the hashtags used are used in reference to Uber eats comp
 #### 7. WordCloud
 The WordCloud is a powerful tool utilized to analyze customer complaints related to UberEats by visualizing the frequency of words used in their tweets. By presenting a visually compelling representation of the most common words or topics in the data, it offers a swift and intuitive overview of the key concerns expressed by customers.
 
-![Cancelled order!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Cancelled Order.png)
+![Cancelled order!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Cancelled%20Order.png)
 
-![drivers!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Customer Service.png)
+![Customer Service!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Customer%20Service.png)
 
-![Complaint Classification!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Driver.png)
+![Driver!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Driver.png)
 
 ![Charges!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Fee%20or%20charges.png)
 
-![Late Delivery!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Late delivery.png)
+![Late Delivery!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Cancelled%20Order.png)
 
 ![Wrong!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Wrong delivery.png)
 
