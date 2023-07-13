@@ -45,7 +45,7 @@ The WordCloud is a powerful tool utilized to analyze customer complaints related
 
 ![Complaint Classification!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Driver.png)
 
-![Charges!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Fee or charges.png)
+![Charges!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Fee%20or%20charges.png)
 
 ![Late Delivery!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/wordcloud_Late delivery.png)
 
