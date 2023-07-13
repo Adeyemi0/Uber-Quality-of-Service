@@ -18,6 +18,9 @@ I perform sentiment analysis on the preprocessed tweets using Natural Language P
 ![Sentiment Analysis!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/polarity_distribution.png)
 
 #### 4. Emotion detection 
-Emotion detection is performed on the cleaned text using the text2emotion library.
+Emotion detection is performed on the cleaned text using the text2emotion library. Emotion detection aims to identify the predominant emotions expressed in the tweets. The library assigns emotion labels to the text, such as happy, sad, angry, surprised, or neutral, based on the detected emotions. Analyzing emotions helps understand the emotional response and sentiment conveyed by the Twitter users.
 ![Emotion Expressed!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/Emotions%20Expressed.png)
 
+#### 5. Complaint Classification
+To find common food delivery complaints such as late delivery, wrong delivery, and unfair charges I searched for keywords like 'cost', 'charged','fee','price','refund','afford','deduct','deducted','pay', 'wait', 'waiting', 'waited','long','delay','delayed','cancel', 'cancelled','void','voided',
+'wrong', 'incorrect','address','mix-up','mix up','care', 'assistance','complaint','hotline','support','service','driver', 'professionalism','guy'. These keywords are searched in the substring of individual tweets. 
