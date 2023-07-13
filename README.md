@@ -21,11 +21,13 @@ Emotion detection is performed on the cleaned text using the text2emotion librar
 ![Emotion Expressed!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/Emotions%20Expressed.png)
 
 #### 5. Complaint Classification
-To find common food delivery complaints such as late delivery, wrong delivery, driver, cancelled order, unfair charges. I searched for keywords like 'cost', 'charged','fee','price','refund','afford','deduct','deducted','pay', 'wait', 'waiting', 'waited','long','delay','delayed','cancel', 'cancelled','void','voided',
-'wrong', 'incorrect','address','mix-up','mix up','care', 'assistance','complaint','hotline','support','service','driver', 'professionalism','guy'. These keywords are searched in the substring of individual tweets. Complaint Classification involves categorizing tweets into specific problem categories (late delivery, wrong delivery, driver, cancelled order, unfair charges, and others) based on these predefined keywords. If a tweet does not match any predefined keyword, it is categorized as "others". Categorizing unmatched tweets as "others" ensures that all tweets are accounted for, even if they do not fall into any specific problem category
+To find common food delivery complaints related late delivery, wrong delivery, driver, cancelled order, unfair charges. I searched for keywords like 'cost', 'charged','fee','price','refund','afford','deduct','deducted','pay', 'wait', 'waiting', 'waited','long','delay','delayed','cancel', 'cancelled','void','voided',
+'wrong', 'incorrect','address','mix-up','mix up','care', 'assistance','complaint','hotline','support','service','driver', 'professionalism','guy'. These keywords are searched in the substring of individual tweets. 
 
 
 ![Complaint Classification!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/word_count_bar_chart.png)
+
+Complaint Classification involves categorizing tweets into specific problem categories (late delivery, wrong delivery, driver, cancelled order, unfair charges, and others) based on these predefined keywords. If a tweet does not match any predefined keyword, it is categorized as "others". Categorizing unmatched tweets as "others" ensures that all tweets are accounted for, even if they do not fall into any specific problem category
 
 ![Frequency of problem!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/Frequency%20of%20Problems.png)
 
