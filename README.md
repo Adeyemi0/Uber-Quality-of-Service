@@ -19,5 +19,5 @@ I perform sentiment analysis on the preprocessed tweets using Natural Language P
 
 #### 4. Emotion detection 
 Emotion detection is performed on the cleaned text using the text2emotion library.
-![Emotion Expressed!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/polarity_distribution.png)
+![Emotion Expressed!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/Emotions%20Expressed.png)
 
