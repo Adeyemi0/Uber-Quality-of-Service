@@ -18,7 +18,7 @@ Emotion detection is performed on the cleaned text using the text2emotion librar
 ![Emotion Expressed!](https://github.com/Adeyemi0/Uber-Quality-of-Service/blob/main/pictures/Emotions%20Expressed.png)
 
 #### 5. Complaint Classification
-To find common food delivery complaints related late delivery, wrong delivery, driver, cancelled order, unfair charges. I searched for keywords like 'cost', 'charged','fee','price','refund','afford','deduct','deducted','pay', 'wait', 'waiting', 'waited','long','delay','delayed','cancel', 'cancelled','void','voided',
+To find common food delivery complaints related to late delivery, wrong delivery, driver, cancelled order, unfair charges. I searched for keywords like 'cost', 'charged','fee','price','refund','afford','deduct','deducted','pay', 'wait', 'waiting', 'waited','long','delay','delayed','cancel', 'cancelled','void','voided',
 'wrong', 'incorrect','address','mix-up','mix up','care', 'assistance','complaint','hotline','support','service','driver', 'professionalism','guy'. These keywords are searched in the substring of individual tweets. 
 
 
@@ -58,7 +58,7 @@ The engagement rate by customer complaint refers to the level of interaction and
 ## Result
 Based on the insights gathered from the customer complaints and data analysis, I infer the following perceptions and sentiments of UberEats customers:
 
-1. Customer Complaint Distributions: The majority of customer complaints fall into the "other" category, indicating that there are diverse and varied issues that customers encounter. This suggests that customers perceive UberEats as having a wide range of potential concerns or challenges that can arise during the delivery process.
+1. Customer Complaint Distributions: The majority of customer complaints fall into the "other" category, the "other" category are tweets that are not related to late delivery, wrong delivery, driver, cancelled order, unfair charges. The driver is second biggest complaint indicating that customers perceive UberEats as having a wide range unproffessionl driver complaints during the delivery process.
 
 2. Mean Engagement Rate by Segments: The engagement rate varies across different complaint segments. The higher engagement rates for segments such as "Fee or charges," "Late delivery," and "Driver" indicate that customers are more likely to actively engage and discuss these specific aspects of the service. This suggests that customers have stronger opinions and experiences related to these areas, leading to increased discussions and interactions.
 
