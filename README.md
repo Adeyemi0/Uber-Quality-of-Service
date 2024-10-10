@@ -1,3 +1,16 @@
+# Table of Contents
+1. [Objective](#objective)
+2. [Methodology](#methodology)
+   - [Data Collection](#1-data-collection)
+   - [Data Preprocessing](#2-data-preprocessing)
+   - [Sentiment Analysis](#3-sentiment-analysis)
+   - [Emotion Detection](#4-emotion-detection)
+   - [Complaint Classification](#5-complaint-classification)
+   - [Hashtag Analysis](#6-hashtag-analysis)
+   - [WordCloud](#7-wordcloud)
+   - [Engagement Rate](#8-engagement-rate)
+3. [Recommendation](#recommendation)
+
 ## Objective
 The main objective of this project is to evaluate UberEats' service quality by analyzing customer tweets. By examining a large volume of unfiltered and unbiased customer opinions, I aim to uncover the strengths and weaknesses of UberEats' service, identify areas for improvement, and gain a comprehensive understanding of customer sentiment towards the company.
 
